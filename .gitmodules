@@ -1,0 +1,3 @@
+[submodule "actuaryR"]
+	path = actuaryR
+	url = https://github.com/kotaro0220/actuaryR.git
